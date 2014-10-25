@@ -1,0 +1,144 @@
+/* */
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #CCCCCC url(../Imagenes/Fondo_Paginas.jpg);
+    font-size: 1em;
+    text-align: center;
+}
+
+header#Cabecera-Sitio, section#contenido, footer#Pie_De_Pag{
+    background: #FFFFFF url(../Imagenes/Fondo2.jpg);
+    margin: 0em auto;
+    max-width: 95%;
+}
+
+img{ 
+    max-width: 100%;
+    padding: 0.20em;
+}
+
+img#From_Imagen{
+    width: 90%;
+}
+
+a{
+    color: #ffffff;
+    font-family: "AnysomeEst_Italiano", "Anysome_Normal", "Evogria_Italino";
+    font-size: 1.1em;
+    text-decoration: none;
+    -ms-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -webkit-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in;
+}
+
+a:hover{
+    color: #dcbb03;
+    font-style: italic;
+    font-size: 1.30em;
+    text-shadow: rgba(12,12,12,0.5) 5px 5px 4px;
+    -ms-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -webkit-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+
+ul li{
+    list-style: none;
+}
+
+h1{
+    color: #ffffff;
+    padding: 0.5em;
+    -ms-text-shadow: rgba(0,0,0,0.2)5px 5px 5px;
+    -moz-text-shadow: rgba(0,0,0,0.2)5px 5px 5px;
+    -webkit-text-shadow: rgba(0,0,0,0.2)5px 5px 5px;
+    -o-text-shadow: rgba(0,0,0,0.2)5px 5px 5px;
+    text-shadow: rgba(0,0,0,0.2)5px 5px 5px;
+}
+
+section#principal, aside#Latera_Formu{
+    background: #145e80;
+    border: 1px solid #000000;
+    border-radius: 1em;
+    display: inline-block;
+    margin: 0em auto;
+    padding: 1.2em;
+    vertical-align: top;
+    width: 61.6%;
+}
+
+article#galeria-inicio{
+    width: 100%;
+}
+
+aside#Latera_Formu{
+    width: 30%;
+}
+
+div#Formulario{
+    background: #F60;
+    margin: 1em auto;
+    width: 40%;
+}
+hgroup{
+    padding: 1em;
+}
+
+label{
+    font-size: 1em;
+    display: block; 
+}
+
+input{
+   margin: 0.5em auto;
+   padding: 0.70em;
+}
+
+#btnSubmit{
+    color: #F60;
+    padding: 0.5em;
+    margin: 20px;
+    cursor: pointer;
+}
+
+footer#Pie_De_Pag{
+    font-family: "AnysomeEst_Italiano", "Anysome_Normal";
+    padding: 1em 0em;
+}
+
+@media(min-width: 1081px){
+  
+}
+
+@media(max-width: 1080px){
+  section#principal{
+        width: 55%;
+    }
+    aside#Latera_Formu{
+        margin: 0.5em 0em;
+        width: 25%;
+    }  
+    footer#Pie_De_Pag{
+        font-size: 0.80em;
+    }
+}
+
+@media(max-width: 400px){
+   section#principal{
+        width:85%;
+    }
+    aside#Latera_Formu{
+        width: 85%;
+    }   
+    footer#Pie_De_Pag{
+        font-size: 0.75em;
+    }
+}

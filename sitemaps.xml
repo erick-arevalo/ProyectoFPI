@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    aqui ponemos la direcciones de nuestros en laces de nuestro sitio web
+ <url><loc>http://www.inicio.com/index.html</loc> </url>
+ <url><loc>http://www.inicio.com/expediente.html</loc> </url>
+ <url><loc>http://www.inicio.com/horarios.html</loc> </url>
+ <url><loc>http://www.inicio.com/notas.html</loc> </url>
+</urlset>

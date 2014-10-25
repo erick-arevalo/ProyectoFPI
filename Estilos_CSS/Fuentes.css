@@ -1,0 +1,38 @@
+/* 
+    Document   : Fuentes
+    Created on : 09-15-2014, 11:20:24 AM
+    Author     : Dany
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+@font-face{
+    font-family: "AnysomeEst_Italiano";
+    scr: url(../Fonts/AnysomeItalic.otf);
+}
+@font-face{
+    font-family: "Anysome_Normal";
+    scr: url(../Fonts/Anysome.otf);
+}
+@font-face{
+    font-family: "Evogria_Italino";
+    scr: url(../Fonts/EvogriaItalic.otf);
+}
+@font-face{
+    font-family: "Evogria_Normal";
+    scr: url(../Fonts/Evogria.otf);
+}
+@font-face{
+    font-family: "Opificio";
+    scr: url(../Fonts/Opificio_neue-regular.ttf);
+}
+@font-face{
+    font-family: "Typew";
+    scr: url(../Fonts/TYPEW.TTF);
+}
+@font-face{
+    font-family: "Crillee";
+    scr: url(../Fonts/crillee.ttf);
+}
+
+

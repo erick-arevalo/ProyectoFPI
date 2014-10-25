@@ -1,0 +1,24 @@
+/* titulo de pag Llanta Ayala y Socios -http://Index.com */
+
+/*TEAM */
+  Creator: Walter Lopez
+  Contact: lwalter_19[at]hotmail.com
+  Twitter: @elwalter
+  From: El Salvador City, Chalchuapa
+
+/* IN MEMORIAL */
+ Walter 
+
+/* THANKS */
+ Belem, Letty, Leon, o
+ Nelson, Omar Lopez
+ Asael Lopez
+
+/* SITE */
+ last update: 2013/09/26
+ languaje: Espa�o
+ standars: HTML5 CSS3 JQUERY
+ Components: jQuery
+ Netbenas JDK
+ Photoshop 4
+ 
